@@ -1,4 +1,4 @@
-![Imagem do Projeto] (image.png)
+![Screenshot 2023-12-27 220036](https://github.com/wasleyfps/negocios-digitais/assets/88601440/8c7fafce-2957-4c29-ac70-4e5e9801ca74)
 
 # Negócios Digitais
 
