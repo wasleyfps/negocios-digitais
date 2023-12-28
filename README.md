@@ -3,26 +3,28 @@
 # Negócios Digitais
 
 > Um site de investimento digital oferece uma plataforma online onde os usuários podem acessar uma variedade de instrumentos financeiros, como ações, criptomoedas, fundos mútuos, entre outros.
-
+git
 ## 🔥 Introdução
 
-Projeto desenvolvido durante o curso Explorer da Rocketseat, ao final do módulo de JavaScript, com o intuito de colocar em prática o conteúdo aprendido.
+Este projeto foi desenvolvido com o objetivo de aprimorar minha compreensão do Next.js, um framework repleto de qualidades excepcionais, enquanto explorei suas funcionalidades e aprofundei meus conhecimentos.
 
 ### ⚙️ Conteúdo
 
-[Clique aqui para acessar](https://wasleyfps.github.io/guessing-game/)
+[Clique aqui para acessar](https://wasleyfps.github.io/negocios-digitais/)
 
 ## 📦 Tecnologias usadas no game:
 
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-*	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-*	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 Ou pode separar por stacks:
 
 **Front-end:**
+* [NextJS](https://nextjs.org/docs/)
+* [React](https://legacy.reactjs.org/)
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
 * [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/)
 * [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
@@ -34,11 +36,11 @@ Ou pode separar por stacks:
 
 ## 👷 Autores
 
-* **Wasley Carvalho** - *Aluno* - [Wasley](https://github.com/wasleyfps)
+* **Wasley Carvalho** - [GitHub](https://github.com/wasleyfps)
 
 ## 📄 Licença
 
-Copyright © 2023 Wasley Carvalho / [Rocketseat](https://www.rocketseat.com.br/)
+Copyright © 2023 Wasley Carvalho 
 
 ## 💡 Expressões de gratidão
 
